@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <div className="bg-gray-200 h-screen flex items-center justify-center">
         <div className="w-full max-w-md bg-white rounded-lg">
-          <form action="" className="px-4 py-4 flex flex-col">
+          <form action="" className="px-4 py-4 flex flex-col pt-8">
             <div className="px-4 pb-4">
               <label htmlFor="email" className="text-sm block font-bold">
                 EMAIL ADDRESS
